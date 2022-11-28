@@ -1,7 +1,7 @@
 # 架構圖
 
 <p align="center">
-    <img src="Screenshots/架構圖.jpg" width="30%"></img>
+    <img src="Screenshots/架構圖.jpg" width="80%"></img>
 </p>
 
 # 後端Demo畫面
