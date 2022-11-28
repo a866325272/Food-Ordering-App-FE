@@ -39,9 +39,9 @@
 </p>
 
 # Demo影片
-
-<img src="Screenshots/Demo.gif" width="45%"></img>
-
+<p align="center">
+    <img src="Screenshots/Demo.gif" width="45%"></img>
+</p>
 
 
 
