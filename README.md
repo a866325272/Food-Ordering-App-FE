@@ -1,9 +1,8 @@
 # 架構圖
-<br>
+
 <p align="center">
     <img src="Screenshots/架構圖.jpg" width="30%"></img>
 </p>
-<br>
 
 # 後端Demo畫面
 
@@ -42,7 +41,7 @@
 ### 使用者資料編輯 - 餐點編輯 畫面
 
 <p align="center">
-    <<img src="Screenshots/profile-edit.jpg" width="30%"><img src="Screenshots/food-edit.jpg" width="30%">
+    <img src="Screenshots/profile-edit.jpg" width="30%"><img src="Screenshots/food-edit.jpg" width="30%">
 </p>
 
 # Demo影片
