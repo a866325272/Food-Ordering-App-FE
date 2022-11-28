@@ -9,19 +9,13 @@
 ### 後端套件
 
 <p align="center">
-    <img src="Screenshots/be-package.jpg" width="30%"></img>
+    <img src="Screenshots/be-package.jpg" width="100%"></img>
 </p>
 
 ### 後端 Node Sever畫面
 
 <p align="center">
-    <img src="Screenshots/be-nodeserver.jpg" width="30%"></img>
-</p>
-
-
-
-<p align="center">
-    <img src="Screenshots/mainpage.jpg" width="30%">
+    <img src="Screenshots/be-nodeserver.jpg" width="45%"></img>
 </p>
 
 # 後端Demo畫面
